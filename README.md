@@ -3,6 +3,6 @@
 This is first project from [The Odin Project](https://theodinproject.com)
 
 
-A recipes website using HTML tags so far learned in the foundations part of the Odin curriculum. 
+A basic recipes website using HTML and CSS.
 
  
